@@ -1,5 +1,5 @@
 {
-  "name": "hillel/package",
+  "name": "hillel/december-package",
   "description": "This is my super-puper package",
   "autoload": {
     "psr-4": {
