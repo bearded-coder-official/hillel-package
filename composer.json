@@ -1,6 +1,8 @@
 {
   "name": "custom-hillel/december-package",
   "description": "This is my super-puper package",
+  "license": "MIT",
+  "type": "library",
   "autoload": {
     "psr-4": {
       "Hillel\\Package\\": "./src"
