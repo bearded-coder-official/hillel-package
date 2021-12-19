@@ -1,0 +1,9 @@
+{
+  "name": "hillel/package",
+  "description": "This is my super-puper package",
+  "autoload": {
+    "psr-4": {
+      "Hillel\\Package\\": "./src"
+    }
+  }
+}
