@@ -6,6 +6,6 @@ class Test
 {
     public function display()
     {
-        echo 'Hello from test package' . PHP_EOL;
+        echo 'Hello from test package!' . PHP_EOL;
     }
 }
