@@ -8,5 +8,6 @@ class Test
     {
         echo 'Hello from test package' . PHP_EOL;
         echo 'Some new job' . PHP_EOL;
+        echo 'Some new job' . PHP_EOL;
     }
 }
